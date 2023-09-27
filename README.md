@@ -1,6 +1,8 @@
-##Ecommerce-BackEnd
+## Ecommerce-BackEnd
 
-## Description: This project is the back end for an e-commerce website built with Node.js, Express.js, Sequelize, and MySQL. It includes database models for products, categories, users, and orders, as well as routes for managing these resources.
+## Description
+
+This project is the back end for an e-commerce website built with Node.js, Express.js, Sequelize, and MySQL. It includes database models for products, categories, users, and orders, as well as routes for managing these resources.
 
 ##Installation:
 
