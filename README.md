@@ -4,9 +4,9 @@
 
 This project is the back end for an e-commerce website built with Node.js, Express.js, Sequelize, and MySQL. It includes database models for products, categories, users, and orders, as well as routes for managing these resources.
 
-##Installation:
+## Installation:
 
-## Clone the repository:
+Clone the repository:
 
 
 git clone https://github.com/ijordan4/Object-Relational-Mapping.git
