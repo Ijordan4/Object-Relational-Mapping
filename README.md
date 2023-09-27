@@ -58,6 +58,7 @@ POST /api/orders: Create a new order.
 GET /api/orders/:id: Get a specific order by ID.
 PUT /api/orders/:id: Update a specific order by ID.
 DELETE /api/orders/:id: Delete a specific order by ID.
-Contributing:
+
+## Contributing:
 
 If you'd like to contribute to this project, please open an issue or submit a pull request on GitHub.
